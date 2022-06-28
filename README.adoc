@@ -1,0 +1,6 @@
+== Cassandra demo
+
+----
+$ go build -o ./test cmd/server/*.go
+$ ./test _args_
+----
